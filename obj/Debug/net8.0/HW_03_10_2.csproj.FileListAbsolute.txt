@@ -1,0 +1,15 @@
+C:\Users\User\Desktop\Projects_C#\EFCore\HW_03_10_2\obj\Debug\net8.0\HW_03_10_2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\Projects_C#\EFCore\HW_03_10_2\obj\Debug\net8.0\HW_03_10_2.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\Projects_C#\EFCore\HW_03_10_2\obj\Debug\net8.0\HW_03_10_2.AssemblyInfo.cs
+C:\Users\User\Desktop\Projects_C#\EFCore\HW_03_10_2\obj\Debug\net8.0\HW_03_10_2.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Projects_C#\EFCore\HW_03_10_2\obj\Debug\net8.0\HW_03_10_2.sourcelink.json
+C:\Users\User\Desktop\Projects_C#\EFCore\HW_03_10_2\bin\Debug\net8.0\HW_03_10_2.exe
+C:\Users\User\Desktop\Projects_C#\EFCore\HW_03_10_2\bin\Debug\net8.0\HW_03_10_2.deps.json
+C:\Users\User\Desktop\Projects_C#\EFCore\HW_03_10_2\bin\Debug\net8.0\HW_03_10_2.runtimeconfig.json
+C:\Users\User\Desktop\Projects_C#\EFCore\HW_03_10_2\bin\Debug\net8.0\HW_03_10_2.dll
+C:\Users\User\Desktop\Projects_C#\EFCore\HW_03_10_2\bin\Debug\net8.0\HW_03_10_2.pdb
+C:\Users\User\Desktop\Projects_C#\EFCore\HW_03_10_2\obj\Debug\net8.0\HW_03_10_2.dll
+C:\Users\User\Desktop\Projects_C#\EFCore\HW_03_10_2\obj\Debug\net8.0\refint\HW_03_10_2.dll
+C:\Users\User\Desktop\Projects_C#\EFCore\HW_03_10_2\obj\Debug\net8.0\HW_03_10_2.pdb
+C:\Users\User\Desktop\Projects_C#\EFCore\HW_03_10_2\obj\Debug\net8.0\HW_03_10_2.genruntimeconfig.cache
+C:\Users\User\Desktop\Projects_C#\EFCore\HW_03_10_2\obj\Debug\net8.0\ref\HW_03_10_2.dll
